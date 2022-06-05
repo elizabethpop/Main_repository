@@ -29,6 +29,11 @@ I participated in the compilation of TCR and BCR databases and their verificatio
 ### 2020 – 2021: 	
 Intern-researcher in Laboratory of Molecular Mechanisms of Hemostasis, Center for Theoretical Problems of Physicochemical Pharmacology, Russian Academy of Sciences.
 
+## Education 
+Lomonosov Moscow State University: 2017 – 2021 
+
+Faculty of Physics, Department of Medical Physics. Bachelor’s degree.
+
 ### Online courses
 Coursera:	Introduction to the Biology of Cancer,  Python Basics.
 
