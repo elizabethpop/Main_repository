@@ -10,6 +10,11 @@ Elizabeth.popova.medphys@mail.ru
 ## Information
 I am junior bioinformatician at BostonGene company. I want to learn more about front-end development and improve my programming skills.
 
+## Skills
+Programming language: Python (Pandas)
+
+Laboratory skills: ELISPOT, flow cytofluorometry, confocal fluorescence microscopy, working with biomaterial, preparation of blood smears.
+
 ## Script sample
 def multiply(a, b):
 
